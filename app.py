@@ -3,6 +3,7 @@ from flask import render_template
 from flask import request
 from flask import redirect
 from flask_sqlalchemy import SQLAlchemy
+#Bibliotecas simplelogin e login_required são necessárias para fazer um sistema simples de login
 from flask_simplelogin import SimpleLogin, login_required
 import os
 
