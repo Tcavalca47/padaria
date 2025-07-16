@@ -1,0 +1,1 @@
+print("Projeto Utilizando Poetry")
